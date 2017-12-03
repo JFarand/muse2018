@@ -1,0 +1,56 @@
+/******
+*Colors
+******/
+
+:root {
+    /*transitions*/
+    --greenery: #86af49;
+    --serenity: #90a7d0;
+    --rosequartz: #f2dcde;
+    --treetop: #476a30;
+    --twilightpurple: #66648b;
+    --orionblue: #3f4f5e;
+    --calypsocoral: #ef5c6e;
+    --nimbuscloud: #d6d5da;
+    /*ethereal material*/
+    --periscope: #45434b;
+    --caramelcafe: #864c24;
+    --richgold: #c8b374;
+    --dullgold: #896e47;
+    --fruitdove: #ce5b78;
+    --bodacious: #b86ba3;
+    --marlin: #525a88;
+    
+}
+
+.periscope_font {
+    color: var(--periscope);
+}
+
+.periscope_bg {
+    background-color: var(--periscope);
+}
+
+.dullgold_font {
+    color: var(--dullgold);
+}
+
+.dullgold_bg {
+    background-color: var(--dullgold);
+}
+
+.white_font {
+    color: #ffffff;
+}
+
+.white_bg {
+    background-color: #ffffff;
+}
+
+.calypsocoral_bg {
+    background-color: var(--calypsocoral);
+} 
+
+.nimbuscloud_font {
+    color: var(--nimbuscloud);
+}

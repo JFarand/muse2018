@@ -1,0 +1,13 @@
+{
+  "name": "muse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "cat ./styles/_*.css > ./styles/styles.css; cat ./styles/styles.css > ./styles.php",
+    "build-js": "cat ./js/*.js > js.php"
+  },
+  "author": "",
+  "license": "ISC"
+}

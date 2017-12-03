@@ -1,0 +1,23 @@
+.grid {
+    display: grid;
+}
+
+.modernmuse .header {
+    grid-area: header;
+}
+
+.modernmuse .sidebar {
+    grid-area: sidebar;
+}
+
+.modernmuse .main {
+    grid-area: main;
+}
+
+.alula-grid-wrapper {
+    grid-template-columns: 33% 66%;
+    grid-template-rows: 12vh auto;
+    grid-template-areas: 
+        "header header"
+        "sidebar main"
+}

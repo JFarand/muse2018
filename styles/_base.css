@@ -1,0 +1,64 @@
+.related {
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.centeredMargin {
+    position: relative;
+    margin: auto;
+}
+
+.autoMargin {
+    margin: auto;
+}
+
+.width-halfvw {
+    width: 50vw;
+}
+
+.width-halfpercent {
+    width: 50%;
+}
+.height-ninevh {
+    height: 9vh;
+}
+
+.height-twelvevh {
+    height: 12vh;
+}
+
+.height-full {
+    height: 100vh;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/******
+*Flexbox
+******/
+.flex {
+    display: flex;
+}
+
+.item-center {
+    display: flex;
+    align-items: center;
+
+}
